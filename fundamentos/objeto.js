@@ -10,7 +10,7 @@ nome: 'Camisa Polo',
 preco: 79.90,
 ['Marca de camisa']: 123,
 obj: {
-    blabla: 1,
+    blabla: 1, 
     obj:{
         blabla: 2
     }
