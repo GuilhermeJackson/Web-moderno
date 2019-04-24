@@ -21,5 +21,6 @@ teste()
 Quando criar uma variavel fora de um escopo, ela é global pois fica armazenada no Window.
 Quando a variavel é criada dentro do escopo de uma funcao, ela nao é global, ela só pode ser chamada dentro da funcao
 
-Evitar variavel global: pq qualquer sobreescrita sobre a variavel pode causar problemas
+Evitar variavel var global: pq qualquer sobreescrita sobre a variavel pode causar problemas
+Usar mais variveis var no escopo de funcao
 */
