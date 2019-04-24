@@ -6,5 +6,5 @@ for (var i = 0; i < 10; i++) {
     })
 }
 
-funcs [2]() //Era pra retonar 1 mas o i não é respeitado e retorna onde o loop para
-funcs [8]() //Era pra retonar 7 mas o i não é respeitado e retorna onde o loop para
+funcs [2]() //Era pra retonar 2 mas o i não é respeitado e retorna onde o loop para
+funcs [8]() //Era pra retonar 8 mas o i não é respeitado e retorna onde o loop para
