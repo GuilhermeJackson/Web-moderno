@@ -1,8 +1,9 @@
-# Web-moderno
-<!DOCTYPE html>
 <html lang="pt-br">
     <head>
-
+        <meta charset="utf-8">
+        <meta name="description" content="Currículo Guilherme Jackson Lamim">
+        <title>Guilherme Jackson Lamim.</title>
+        <link type="text/css" rel='stylesheet' href='Estil.css'>
         <style type="text/css">
                 #Estil{                    position: absolute;
                     left: 60%;
