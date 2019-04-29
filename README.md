@@ -30,7 +30,7 @@
             <ul><b>Graduação:</b> Sistemas de Informação <b>(Cursando 4° semestre).</b><br>
             <b>Instituição:</b> Uniasselvi FAMEBLU.</ul>
         
-                <h2><b>Cursos:</b></h2>
+                <h2><b>Cursos:</b></h2> 
             <ul><li>Informatica Básica - <b>Completo.</b></li><br>
             <li>Dominando o terminal Linux ‘Curso de Bash’ - <b>Completo</b> em EAD DioLinux (5 horas)</li><br>
             <li>HTML 5 básico - <b>Completo</b> em Udemy (5 horas)</li><br>
