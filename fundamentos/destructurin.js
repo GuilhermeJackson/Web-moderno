@@ -16,9 +16,9 @@ const { nome: n, idade: i } = pessoa    //em vez de ficar escrevendo nome é só
 console.log(n, i)
 
 const { sobrenome, bemHumorada = true} = pessoa
-console.log(sobrenome, bemHumorada)
+console.log(sobrenome, bemHumorada) 
 
 const {endereco: { logradouro, numero, cep } } = pessoa
 console.log(logradouro, numero, cep)
 
-//destructuring: é uma forma de retirar alguma coisa dentro de uma estrutura
+//destructuring: é uma forma de retirar alguma coisa dentro de uma estrutura 
