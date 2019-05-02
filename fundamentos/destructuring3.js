@@ -7,6 +7,7 @@ function rand({min = 0, max = 1000}) {
 const obj = {max: 100, min:50 }
 console.log(rand(obj))
 console.log(rand({min: 30})) //outra possibilidade, passando o min já que o max é por padrao 1000
+console.log(rand({}))  //precisa do {} pq o rand precisa desestruturar alguma ESTRUTURA. Usa valor padrao da function
 
-const obj2 = {max: 30, min:1}   //segundo rand
+const obj2 = {max: 30, min:1}   //segundo rand 
 console.log(rand(obj2))
