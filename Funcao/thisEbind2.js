@@ -18,3 +18,13 @@ setInterval (function() {   //setInterval() = dispara outra funcao apartir de um
     }
 
 new pessoa
+
+    //usando arrow
+/*
+setInterval(() => {     //tempo determinado para fazer uma acao
+    this.idade++
+    console.log(this.idade)
+    }, 1000)
+}
+
+new pessoa */
