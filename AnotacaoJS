@@ -1,0 +1,67 @@
+Math = retorna um valor inteiro
+
+switch case = é uma seleção multipla. não é expressão relacional (bool). padrão usa o break pra sair do case. caso do default pode colocar ele em qualquer posição. Seleção multipla de repetição
+
+while = usar quando não sabe exatamente quantas repetições vai usar. 
+
+for = usada quando tem uma determina quantidade de repetições.
+
+return = A declaração return finaliza a execução de uma função e especifica os valores que devem ser retonados para onde a função foi chamada. Usada em um corpo de função, a execução dessa função é parada. 
+
+``= usado pra fazer o tamplate de texto e selecionar a variavel atraves das aspas ao contrario `qualquer conteudo ${variavel}
+
+do/while = inverte a lógica do while garantindo q haja pelo menos uma repetição no laço.	Expressao while fica no final do bloco e a palavra do fica no inicio do bloco. Pelo menos uma repetição é garantida.
+
+random = function entreMinMax(min, max)
+	const valor = Math.random() * (max - min) - min
+	return Math.floor(valor)
+
+array.length = é o comprimento do array
+
+for: usado para correr os incrementos ou decrementos
+
+fot/in: pode correr determinada estrutura
+
+break = não influencia no bloco if. Influencia no swith, for e while
+
+continue = usado em estruturas de repetição
+
+cidadao em primeira linha = trata a funcao como um dado.
+
+arguments = é um array
+
+valor padrão = realizar uma function com valor a = a || 1
+
+? = caso seja diferente ele faz --acao/valor--
+
+this = é um jeito de referenciar alguma coisa de dentro de uma function ou object
+
+setInterval() = é um temporizador em nanosegundos para realizar determinada ação dispara outra funcao apartir de um intervalo que foi passado.
+
+funcao arrow =>   =  é uma função anonima. Se quiser chamar a function arrow depois, tem q armazenar ela em uma variavel ou constante. this. não muda nunca
+
+this dentro de uma funcao normal é global e this dentro de uma funcao com arrow nãe é global
+
+funcao anonima = é uma funcao sem nome. arrow sempre sera uma function anonima pq nao tem como dar um nome pra ela
+
+callback = significa chamar de volta. Deve passar uma funcao1 para outra funcao2, e depois chamar a funcao1 de volta.
+
+Padrao de projeto mais utilizado na web é o webserver
+
+funcao construtora = é como se fosse uma classe. Atributos de uma funcao sendo chamada dentro de um objeto
+
+Contexto léxico = é a prioridade de uma variavel comparada com outra que esta em outro contexto como por exemplo uma mesma variavel global comparada com uma variavel dentro de uma function 
+
+Closure = A função fora() cria uma variável local chamada x, e depois define uma função chamada dentro(). dentro() é uma função aninhada (um closure) — ela é definida dentro da função fora(), e está disponivel apenas dentro do corpo daquela função. Diferente de fora(), dentro() não tem variáveis locais próprias, e ao invés disso reusa a variável name declarada na função pai (no caso a funcao fora()).
+
+Factory = é uma funcao q no final ela retorna um objeto ou uma outra outra funcao ou um objeto com funcao
+
+class = é uma funcao escrita de uma forma diferente
+
+diferença entre class e função = diferente de class, função tem ciencia do contexto léxico
+
+IIFE = cria uma funcao expression (funcao dentro de uma variavel) e inicia ela imediatamente. Bastante usado para fugir do contexto global.
+
+call e apply = a diferença entre call e apply é a forma q é passado os paramentros.
+call é passado diretamente os parametros q serao passado para funcao
+apply é passado os paramentros por array []
