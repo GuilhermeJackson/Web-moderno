@@ -38,7 +38,7 @@
         
                 <h2>Experiências Profissionais:</h2>
             <ul><li><b>Assistente de e-commerce</b> na empresa <b>Olhar Compra Fácil.</b><br>
-            <b>Período:</b> Outubro/2018 - <b>Atual</b><br>
+            <b>Período:</b> Outubro/2018 - <b>Maio/2019</b><br>
             <b>Atribuições:</b> Cadastramento de itens no site e marketplace; tirar dúvidas de clientes por e-mail, chat e telefone; zelar pelo bom funcionamento do site; controle de vendas; responsável pela integração de ERP com os marketeplaces via Anymarket.</li><br>
                 
             <li><b>Suporte ao Cliente</b> na empresa <b>Trezo.</b>
