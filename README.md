@@ -41,7 +41,7 @@
             <b>Período:</b> Outubro/2018 - Maio/2019<br>
             <b>Atribuições:</b> Cadastramento de itens no site e marketplace; tirar dúvidas de clientes por e-mail, chat e telefone; zelar pelo bom funcionamento do site; controle de vendas; responsável pela integração de ERP com os marketeplaces via Anymarket.</li><br>
                 
-            <li><b>Suporte ao Cliente</b> na empresa <b>Trezo.</b>
+            <li><b>Suporte ao Cliente</b> na empresa <b>Trezo.</b><br>
             <b>Período:</b> Agosto/2018 - Outubro/2018<br>
             <b>Atribuições:</b> Triagem de tarefas para back-end, front-end, infraestrutura e testes de fluxo do site.</li><br>
             
