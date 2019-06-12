@@ -1,4 +1,4 @@
-Math = retorna um valor inteiro
+﻿Math = retorna um valor inteiro
 
 switch case = é uma seleção multipla. não é expressão relacional (bool). padrão usa o break pra sair do case. caso do default pode colocar ele em qualquer posição. Seleção multipla de repetição
 
@@ -63,5 +63,10 @@ diferença entre class e função = diferente de class, função tem ciencia do 
 IIFE = cria uma funcao expression (funcao dentro de uma variavel) e inicia ela imediatamente. Bastante usado para fugir do contexto global.
 
 call e apply = a diferença entre call e apply é a forma q é passado os paramentros.
-call é passado diretamente os parametros q serao passado para funcao
-apply é passado os paramentros por array []
+call: é passado diretamente os parametros q serao passado para funcao
+apply: é passado os paramentros por array []
+
+.freeze = serve para deixar uma variavel sempre com o mesmo endereço de memoria e valor
+
+get e set = serve pra trabalhar melhor um código de validação de uma forma (cujo é privado pelo _ )
+

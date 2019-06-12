@@ -38,7 +38,7 @@
         
                 <h2>Experiências Profissionais:</h2>
             <ul><li><b>Assistente de e-commerce</b> na empresa <b>Olhar Compra Fácil.</b><br>
-            <b>Período:</b> Outubro/2018 - <b>Maio/2019</b><br>
+            <b>Período:</b> Outubro/2018 - Maio/2019<br>
             <b>Atribuições:</b> Cadastramento de itens no site e marketplace; tirar dúvidas de clientes por e-mail, chat e telefone; zelar pelo bom funcionamento do site; controle de vendas; responsável pela integração de ERP com os marketeplaces via Anymarket.</li><br>
                 
             <li><b>Suporte ao Cliente</b> na empresa <b>Trezo.</b>
@@ -58,11 +58,11 @@
             <b>Atribuições:</b> ATestes de anti-explosivos de Kvar; solda de bobinas com estanho.</li><br>
             
             <li><b>Auxiliar de Estampador</b> na empresa <b>Maurici Luis Crespi.</b><br>
-            <b>Período:</b> Março/2014 - Dezembro/2014<br>
+            <b>Período:</b> Março/2014 - Outubro/2014<br>
             <b>Atribuições:</b> Auxiliar de estampador na máquina Carrossel.</li><br>
             
             <li><b>Repositor</b> na empresa <b>Supermercado Gueda.</b><br>
-            <b>Período:</b> Março/2012 - Junho/2013<br>
+            <b>Período:</b> Setembro/2012 - Junho/2013<br>
             <b>Atribuições:</b> Abastecimento e pesagem do Hortifruti.</li><br></ul>
         
                 <h2>Habilidades Adicionais:</h2>
