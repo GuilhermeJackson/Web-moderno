@@ -69,6 +69,7 @@
             <ul><li>Conhecimento básico em testes (testlink).</li>
             <li>Conhecimento básico na plataforma Magento.</li>
             <li>Simpatia, boa comunicação e bom relacionamento interpessoal.</li>
+            <li>Domínio em controle de versão Git Hub.</li>
             <li><a href="https://guilhermejackson.github.io/Web-moderno/" target="_blank">Curriculo hospedado no GitHub Pages.</a></li></ul>
     </body>
 </html> 
