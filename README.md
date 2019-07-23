@@ -26,7 +26,7 @@
             <ul>Adquirir conhecimento e aprimoramento profissional na área de Tecnologia da Informação.</ul>
 
             <h2><b>Formação:</b></h2>
-            <ul><b>Graduação:</b> Sistemas de Informação <b>(Cursando 4° semestre).</b><br>
+            <ul><b>Graduação:</b> Sistemas de Informação <b>(Cursando 5° semestre).</b><br>
             <b>Instituição:</b> Uniasselvi FAMEBLU.</ul>
         
                 <h2><b>Cursos:</b></h2>
