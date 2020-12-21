@@ -33,7 +33,7 @@
             <li>Dominando o terminal Linux ‘Curso de Bash’ - <b>Completo</b> em EAD DioLinux (5 horas)</li><br>
             <li>HTML 5 básico - <b>Completo</b> em Udemy (5 horas)</li><br>
             <li>Android/Java - <b>Completo</b> em Proway (280 horas)</li><br>
-            <li>IOS/Swift - <b>Cursando</b> em Proway (280 horas)</li></ul>
+            <li>IOS/Swift - <b>Cursando</b> em Proway (280 horas)</li>
         
                 <h2>Experiências Profissionais:</h2>
             <ul><li><b>Estágio de desenvolvimento mobile</b> na empresa <b>Ambev Tech.</b><br>
