@@ -18,28 +18,27 @@
             <ul>Rua Santa Rosa, n°89.<br> 
             Bairro: Itoupava Norte. Blumenau - SC - CEP: 89053-333<br>
             Brasileiro - Solteiro.<br>
-            Dt. de nascimento: 17/08/1996 - 22 anos.<br>
-            Contato: (47) 9 9210-7083 / (47) 9 8408-9278 (Recado)<br>
+            Dt. de nascimento: 17/08/1996.<br>
+            Contato: (47) 9 9105-6721<br>
         <a href="guilherme.lamim96@gmail.com" target="_blank">guilherme.lamim96@gmail.com</a><br></ul>
 
                 <h2><b>Objetivo:</b></h2>
-            <ul>Adquirir conhecimento e aprimoramento profissional na área de Tecnologia da Informação.</ul>
+            <ul>Atuar na área de desenvolvimento de software e aprimorar minhas habilidades.</ul>
 
             <h2><b>Formação:</b></h2>
-            <ul><b>Graduação:</b> Sistemas de Informação <b>(Cursando 5° semestre).</b><br>
+            <ul><b>Graduação:</b> Sistemas de Informação <b>(Cursando 7° semestre).</b><br>
             <b>Instituição:</b> Uniasselvi FAMEBLU.</ul>
         
                 <h2><b>Cursos:</b></h2>
-            <ul><li>Informatica Básica - <b>Completo.</b></li><br>
             <li>Dominando o terminal Linux ‘Curso de Bash’ - <b>Completo</b> em EAD DioLinux (5 horas)</li><br>
             <li>HTML 5 básico - <b>Completo</b> em Udemy (5 horas)</li><br>
-            <li>Javascript, React, VueJS, Node, HTML, CSS, jQuery, Bootstrap, Webpacke, Gulp e Banco de Dados MySQL - <b>Cursando</b> em Udemy (75 horas)</li><br>
-            <li>PHP 7 - <b>Cursando</b> em Udemy (33 horas)</li></ul>
+            <li>Android/Java - <b>Completo</b> em Proway (280 horas)</li><br>
+            <li>IOS/Swift - <b>Cursando</b> em Proway (280 horas)</li></ul>
         
                 <h2>Experiências Profissionais:</h2>
-            <ul><li><b>Assistente de e-commerce</b> na empresa <b>Olhar Compra Fácil.</b><br>
-            <b>Período:</b> Outubro/2018 - Maio/2019<br>
-            <b>Atribuições:</b> Cadastramento de itens no site e marketplace; tirar dúvidas de clientes por e-mail, chat e telefone; zelar pelo bom funcionamento do site; controle de vendas; responsável pela integração de ERP com os marketeplaces via Anymarket.</li><br>
+            <ul><li><b>Estágio de desenvolvimento mobile</b> na empresa <b>Ambev Tech.</b><br>
+            <b>Período:</b> setembro/2019 - Atual<br>
+            <b>Atribuições:</b> Desenvolvimento de software utilizando Android / Java / Kotlin, Swift, Flutter, SQL, boas práticas de clean code, TDD, arquiteturas de projeto, metodologias ágeis e controle de versionamento.</li><br>
                 
             <li><b>Suporte ao Cliente</b> na empresa <b>Trezo.</b><br>
             <b>Período:</b> Agosto/2018 - Outubro/2018<br>
@@ -66,7 +65,7 @@
             <b>Atribuições:</b> Abastecimento e pesagem do Hortifruti.</li><br></ul>
         
                 <h2>Habilidades Adicionais:</h2>
-            <ul><li>Conhecimento básico em testes (testlink).</li>
+            <ul><li>Inglês Intermediário</li>
             <li>Conhecimento básico na plataforma Magento.</li>
             <li>Simpatia, boa comunicação e bom relacionamento interpessoal.</li>
             <li>Domínio em controle de versão Git Hub.</li>
